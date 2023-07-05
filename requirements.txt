@@ -1,0 +1,10 @@
+wheel
+setuptools
+nltk==3.7
+numpy>=1.23.1
+pandas>=1.4.3
+scikit_learn==1.1.2
+spacy>3.4.0
+stanza==1.4.0
+gensim==4.2.0
+pyelixhauser>=0.1.0

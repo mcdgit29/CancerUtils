@@ -1,0 +1,6 @@
+/.ipynb_checkpoints/
+venv/
+CancerUtils.egg-info/
+build
+*.ipynb
+.pytest_cache/
