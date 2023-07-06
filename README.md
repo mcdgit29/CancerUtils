@@ -1,4 +1,4 @@
-# CancerUtils A package for creating features from ICD10 CM, ICD9 a natural text 
+# CancerUtils A package for extracting clinical features and attributes from raw text  
 
 ## Introduction 
 The CancerUtils is an natural language processing system intended to extract concepts useful for understanding 
