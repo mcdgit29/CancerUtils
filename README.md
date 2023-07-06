@@ -67,7 +67,7 @@ Example of detecting negation
 
 
 ### Methods - NER Module 
-This module used Named Entity Recognition via Stanza (1,2) to detect clinical problems in text. This package has the capability to 
+This module used Named Entity Recognition via Stanza (2,3) to detect clinical problems in text. This package has the capability to 
 detect problems, family history and first degree family history (parents, children, siblings). 
 The ‘get_problems’ function detects problems attributed to the patient
 
